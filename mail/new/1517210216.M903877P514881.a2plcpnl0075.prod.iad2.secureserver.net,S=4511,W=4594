@@ -1,0 +1,83 @@
+Return-Path: <>
+Delivered-To: reuben222@a2plcpnl0075.prod.iad2.secureserver.net
+Received: from a2plcpnl0075.prod.iad2.secureserver.net
+	by a2plcpnl0075.prod.iad2.secureserver.net (Dovecot) with LMTP id Dh9QNWjKblpB2wcAHXjtow
+	for <reuben222@a2plcpnl0075.prod.iad2.secureserver.net>; Mon, 29 Jan 2018 00:16:56 -0700
+Return-path: <>
+Envelope-to: reuben222@a2plcpnl0075.prod.iad2.secureserver.net
+Delivery-date: Mon, 29 Jan 2018 00:16:56 -0700
+Received: from mailnull by a2plcpnl0075.prod.iad2.secureserver.net with local (Exim 4.89)
+	id 1eg3gW-002A3D-QR
+	for reuben222@a2plcpnl0075.prod.iad2.secureserver.net; Mon, 29 Jan 2018 00:16:56 -0700
+X-Failed-Recipients: jeffthebrink@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0075.prod.iad2.secureserver.net>
+To: reuben222@a2plcpnl0075.prod.iad2.secureserver.net
+Content-Type: multipart/report; report-type=delivery-status; boundary=1517210216-eximdsn-207751918
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1eg3gW-002A3D-QR@a2plcpnl0075.prod.iad2.secureserver.net>
+Date: Mon, 29 Jan 2018 00:16:56 -0700
+
+--1517210216-eximdsn-207751918
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  jeffthebrink@gmail.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 g3gWefY7ibf0g :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=eqZ/ttdX c=1 sm=1 tr=0 p=wIEzYA186K10Nz4F_Pyy:22 a=KVbj4Joysl0WEwtAWLMnuQ==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=x7bEGLp0ZPQA:10 a=PgGtMhpGOawA:10 a=9QaUoaqmj2YA:10 a=MmfZ0mYxeEMA:10 a=RgaUWeydRksA:10 a=hRPVNEZwox0A:10 a=c7naqG_xe-4A:10 a=r77TgQKjGQsHNAKrUKIA:9 a=pGLkceISAAAA:8 a=mp58WSdhoZasst4iW-cA:9 a=wPNLvfGTeEIA:10 a=ESh76u8lm2AA:10 a=7M6iuKN_HcQA:10 a=tclcd6dtLQvEqt9_mmAA:9 ::
+    97.00
+
+--1517210216-eximdsn-207751918
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; a2plcpnl0075.prod.iad2.secureserver.net
+
+Action: failed
+Final-Recipient: rfc822;jeffthebrink@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net
+Diagnostic-Code: smtp; 552 5.2.0 g3gWefY7ibf0g :: CPANEL :: Message rejected for spam or virus content :: Please include this entire message when contacting support :: v=2.1 cv=eqZ/ttdX c=1 sm=1 tr=0 p=wIEzYA186K10Nz4F_Pyy:22 a=KVbj4Joysl0WEwtAWLMnuQ==:117 a=L9H7d07YOLsA:10 a=9cW_t1CCXrUA:10 a=s5jvgZ67dGcA:10 a=9+rZDBEiDlHhcck0kWbJtElFXBc=:19 a=x7bEGLp0ZPQA:10 a=PgGtMhpGOawA:10 a=9QaUoaqmj2YA:10 a=MmfZ0mYxeEMA:10 a=RgaUWeydRksA:10 a=hRPVNEZwox0A:10 a=c7naqG_xe-4A:10 a=r77TgQKjGQsHNAKrUKIA:9 a=pGLkceISAAAA:8 a=mp58WSdhoZasst4iW-cA:9 a=wPNLvfGTeEIA:10 a=ESh76u8lm2AA:10 a=7M6iuKN_HcQA:10 a=tclcd6dtLQvEqt9_mmAA:9 :: 97.00
+
+--1517210216-eximdsn-207751918
+Content-type: message/rfc822
+
+Return-path: <reuben222@a2plcpnl0075.prod.iad2.secureserver.net>
+Received: from reuben222 by a2plcpnl0075.prod.iad2.secureserver.net with local (Exim 4.89)
+	(envelope-from <reuben222@a2plcpnl0075.prod.iad2.secureserver.net>)
+	id 1eg3gW-002A32-LN
+	for jeffthebrink@gmail.com; Mon, 29 Jan 2018 00:16:56 -0700
+To: jeffthebrink@gmail.com
+Subject: A New Message Awaits:
+X-PHP-Script: jeffthebrink.com/assets/php/contact.php for 171.78.222.227
+X-PHP-Filename: /home/reuben222/public_html/assets/php/contact.php REMOTE_ADDR: 171.78.222.227
+From: will.iamsddi.ana@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="==Multipart_Boundary_xb59f7b54678da749c82cbfd11aad0202x"
+Message-Id: <E1eg3gW-002A32-LN@a2plcpnl0075.prod.iad2.secureserver.net>
+Date: Mon, 29 Jan 2018 00:16:56 -0700
+
+This is a multi-part message in MIME format.
+
+--==Multipart_Boundary_xb59f7b54678da749c82cbfd11aad0202x
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+From lION. Details are given below.
+ Name: Diana Williams 
+ Email: will.iamsddi.ana@gmail.com 
+ Message: 
+ Want more clients and customers? We will help them find you by putting you on the 1st page of Google. Please reply to this message and we will prepare a special proposal for you.
+
+--==Multipart_Boundary_xb59f7b54678da749c82cbfd11aad0202x
+
+
+--1517210216-eximdsn-207751918--

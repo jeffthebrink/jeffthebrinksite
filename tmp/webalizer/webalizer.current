@@ -1,0 +1,388 @@
+# Webalizer V2.23-05 Incremental Data - 06/03/2018 04:52:30
+2018 6 3 4 52 30
+130 113 57 30 3 11 3023297 43 42 0
+5 2 30 1 3
+56 53 2541740 24 24 23
+51 38 339679 31 17 17
+23 22 141878 5 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 6536 1
+2 2 9674 2
+22 21 137041 1
+0 0 0 0
+33 33 2376518 4
+1 1 4837 1
+0 0 0 0
+0 0 0 0
+11 2 17387 2
+5 5 24185 5
+3 1 7393 1
+1 1 4837 1
+3 3 14511 3
+3 3 14511 3
+9 9 86351 9
+2 2 9674 2
+3 2 10531 2
+1 1 4837 1
+1 1 4837 1
+3 2 31940 2
+0 0 0 0
+21 19 128817 1
+4 4 128880 1
+0 0 0 0
+0
+0
+0
+113
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/js/jquery.mb.YTPlayer.min.js
+0 3 0 35058 0 0
+/assets/owlcarousel/css/owl.theme.css
+0 3 0 1830 0 0
+/assets/owlcarousel/js/owl.carousel.js
+0 3 0 26301 0 0
+/assets/js/jquery.stellar.min.js
+0 3 0 10224 0 0
+/assets/js/scripts.js
+0 3 0 6084 0 0
+/assets/images/work/SpringCRUD SS.png
+0 1 0 248909 0 0
+/assets/css/animate.min.css
+0 3 0 12261 0 0
+/assets/fonts/fontawesome-webfont.ttf
+0 1 0 98397 0 0
+/assets/images/work/Travel Brinkley.png
+0 1 0 521982 0 0
+/assets/js/wow.min.js
+0 3 0 8106 0 0
+/assets/images/work/Rehearsal Finder SS.png
+0 1 0 331488 0 0
+/assets/images/bg/Rocket.png
+0 2 0 229924 0 0
+/assets/js/jquery.magnific-popup.min.js
+0 3 0 22050 0 0
+/assets/bootstrap/js/bootstrap.min.js
+0 3 0 29295 0 0
+/assets/css/YTPlayer.css
+0 3 0 16269 0 0
+/assets/js/jquery.min.js
+0 3 0 89466 0 0
+/assets/fonts/font-awesome.min.css
+0 3 0 21159 0 0
+/assets/css/effects.css
+0 3 0 2874 0 0
+/assets/images/work/Emo SS.png
+0 1 0 149095 0 0
+/assets/css/responsive.css
+0 3 0 2529 0 0
+/assets/js/jquery.mixitup.js
+0 3 0 33420 0 0
+/
+0 43 0 272218 42 2
+/assets/images/work/MB SS.png
+0 1 0 368614 0 0
+/assets/css/magnific-popup.css
+0 3 0 5448 0 0
+/assets/owlcarousel/css/owl.carousel.css
+0 3 0 1593 0 0
+/assets/bootstrap/css/bootstrap.min.css
+0 3 0 59253 0 0
+/assets/images/Brink.jpg
+0 1 0 250883 0 0
+/assets/js/form-contact.js
+0 3 0 1935 0 0
+/assets/images/work/CCB_SS.png
+0 1 0 141493 0 0
+/assets/css/style.css
+0 3 0 8886 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.66.138
+0 9 9 39680 1 1527870708
+/
+64.27.17.140
+0 1 1 4837 1 1527865179
+/
+40.77.167.126
+0 5 5 13992 0 0
+-
+145.239.91.37
+0 1 1 4837 1 1527944843
+/
+185.220.101.27
+0 2 2 9674 2 1527876846
+/
+220.181.125.138
+0 2 1 6536 1 1527850478
+/
+47.96.233.155
+0 2 0 1714 0 0
+-
+51.15.209.128
+0 1 1 4837 1 1527818154
+/
+40.77.167.125
+0 7 7 36101 0 0
+-
+47.106.146.167
+0 1 0 857 0 0
+-
+185.220.101.9
+0 1 1 4837 1 1527942756
+/
+163.172.151.47
+0 1 1 4837 1 1527847025
+/
+31.185.104.19
+0 1 1 4837 1 1527862649
+/
+95.216.141.155
+0 1 1 4837 1 1527967208
+/
+54.37.16.241
+0 1 1 4837 1 1527831076
+/
+51.15.88.249
+0 1 1 4837 1 1527900085
+/
+51.38.162.232
+0 1 1 4837 1 1527907059
+/
+207.46.13.215
+0 1 0 857 0 0
+-
+220.181.108.160
+0 1 0 857 0 0
+-
+47.96.234.201
+0 2 0 1714 0 0
+-
+159.65.36.145
+0 1 1 26246 1 1527880014
+/
+176.10.104.243
+0 2 2 9674 2 1528001550
+/
+192.42.116.28
+0 1 1 4837 1 1527952670
+/
+92.63.103.241
+0 1 1 4837 1 1527864215
+/
+192.42.116.13
+0 1 1 4837 1 1527958635
+/
+51.15.81.222
+0 1 1 4837 1 1527902373
+/
+185.220.101.12
+0 1 1 4837 1 1527948112
+/
+40.77.167.123
+0 8 6 73887 0 0
+-
+84.19.181.25
+0 1 1 4837 1 1527942168
+/
+204.85.191.31
+0 1 1 4837 1 1527944006
+/
+199.249.223.74
+0 1 1 4837 1 1527859668
+/
+80.67.172.162
+0 1 1 4837 1 1527865129
+/
+157.55.39.55
+0 1 1 4837 1 1527974621
+/
+37.139.8.104
+0 1 1 4837 1 1527999085
+/
+66.249.66.136
+0 12 10 85742 0 0
+-
+51.15.157.211
+0 1 0 1699 0 0
+-
+185.107.47.215
+0 1 1 4837 1 1527953650
+/
+144.217.164.43
+0 1 1 4837 1 1527840458
+/
+193.171.202.150
+0 1 1 4837 1 1527948472
+/
+40.77.167.47
+0 2 2 9081 0 0
+-
+40.77.167.25
+0 1 1 114962 0 0
+-
+47.106.37.223
+0 1 0 857 0 0
+-
+120.79.186.194
+0 1 0 857 0 0
+-
+198.143.155.140
+0 1 1 4837 1 1527844427
+/
+185.107.47.171
+0 1 1 4837 1 1527891041
+/
+85.248.227.163
+0 1 1 4837 1 1527850968
+/
+85.113.214.101
+0 30 30 2362007 1 1527826914
+/
+193.169.252.38
+0 2 2 52492 1 1527862637
+/
+80.127.116.96
+0 1 1 4837 1 1527929555
+/
+199.249.223.66
+0 1 1 4837 1 1527858044
+/
+51.15.64.212
+0 1 1 4837 1 1527844408
+/
+47.96.234.85
+0 1 0 857 0 0
+-
+47.96.234.173
+0 1 0 857 0 0
+-
+199.249.223.46
+0 1 1 4837 1 1527844513
+/
+66.249.66.140
+0 2 2 12476 0 0
+-
+192.42.116.15
+0 1 1 4837 1 1527949210
+/
+89.234.157.254
+0 1 1 4837 1 1527912783
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.66.138
+0 8 8 34843 0 0
+-
+176.10.104.243
+0 1 1 4837 1 1528001550
+/
+37.139.8.104
+0 1 1 4837 1 1527999085
+/
+66.249.66.136
+0 11 10 84885 0 0
+-
+66.249.66.140
+0 2 2 12476 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 78
+http://jeffthebrink.com.seocheckupx.net
+0 1
+http://jeffthebrink.com/
+0 51
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 30
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 25
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36 OPR/19.0.1326.6
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+0 35
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
