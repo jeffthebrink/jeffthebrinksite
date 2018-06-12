@@ -71,12 +71,13 @@ a {
  <div class="row">
     <div class="col-md-12">
       <div class="main-icon text-warning"><span class="uxicon uxicon-alert"></span></div>
-        <h1>File not found (404 error)</h1>
+        <h1>Awww Snap! File not found (404 error)</h1>
     </div>
   </div>
   <div class="row">
     <div class="col-md-6 col-md-push-3">
-      <p class="lead">If you think what you're looking for should be here, please contact the site owner.</p>
+      <p class="lead">Maybe you should just go back to jeffthebrink.com. Hopefully you'll find what you're looking
+      for there.</p>
     </div>
   </div>
 </div>
